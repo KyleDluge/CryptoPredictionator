@@ -147,7 +147,6 @@ ruamel-yaml==0.15.87
 scikit-image==0.17.2
 selenium==3.141.0
 Send2Trash==1.5.0
-setuptools-git==1.2
 simplegeneric==0.8.1
 smmap==4.0.0
 snowballstemmer==2.0.0
