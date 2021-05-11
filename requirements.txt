@@ -178,3 +178,7 @@ yarl==1.6.3
 yfinance==0.1.59
 zict==2.0.0
 zope.event==4.5.0
+
+import sys
+setuptools
+tokenize
