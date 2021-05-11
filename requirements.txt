@@ -32,8 +32,6 @@ chess==1.4.0
 click==7.1.2
 cmdstanpy==0.9.5
 coloredlogs==15.0
-conda-build==3.20.5
-conda-verify==3.4.2
 contextlib2==0.6.0.post1
 convertdate==2.3.2
 cycler==0.10.0
