@@ -1,0 +1,1 @@
+worker: python Dogestock1.py
