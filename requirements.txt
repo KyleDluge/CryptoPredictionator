@@ -28,7 +28,7 @@ cachetools==4.2.2
 certifi==2020.12.5
 cffi==1.14.5
 chardet==4.0.0
-cmdstanpy==0.9.68
+cmdstanpy==0.9.5
 chess==1.4.0
 click==7.1.2
 contextlib2==0.6.0.post1
