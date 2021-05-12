@@ -112,7 +112,6 @@ plotly==4.14.3
 pluggy==0.13.1
 ply==3.11
 prometheus-client==0.8.0
-prophet==1.0.1
 protobuf==3.15.8
 psycopg2-binary==2.8.6
 ptyprocess==0.6.0
