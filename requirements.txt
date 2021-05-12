@@ -126,7 +126,6 @@ ptyprocess==0.6.0
 pyarrow==4.0.0
 pycodestyle==2.6.0
 pycosat==0.6.3
-pycurl==7.43.0.6
 pydeck==0.6.2
 pyflakes==2.2.0
 PyMeeus==0.5.11
@@ -178,4 +177,4 @@ yarl==1.6.3
 yfinance==0.1.59
 zict==2.0.0
 zope.event==4.5.0
-setuptools
+setuptools==56.2.0
