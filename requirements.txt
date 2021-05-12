@@ -31,7 +31,6 @@ chardet==4.0.0
 cmdstanpy==0.9.68
 chess==1.4.0
 click==7.1.2
-picoloredlogs==15.0
 contextlib2==0.6.0.post1
 convertdate==2.3.2
 cycler==0.10.0
